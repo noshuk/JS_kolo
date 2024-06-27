@@ -1,4 +1,6 @@
 # JS_kolo
+# Task 4.3
+# Made by Chornobai Ivan
 
 ## Installation
 
